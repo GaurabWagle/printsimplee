@@ -2,5 +2,5 @@
 void main(){
 
 printf("print simple"s);
-/* if you wanna add extra lines then write here */s
+/* if you wanna add extra lines then write here */
 } 
