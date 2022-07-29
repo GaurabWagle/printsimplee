@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main(){
 
-printf("print simple"s);
+printf("print simple");
 /* if you wanna add extra lines then write here */
 } 
